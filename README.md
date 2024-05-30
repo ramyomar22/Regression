@@ -1,3 +1,5 @@
 # Regression
-A course in Google Advanced Data Analytics
+In this course, I learned:
+*  Linear regression
+*  logistic regression
 ![logo](reg.jpg)
